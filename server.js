@@ -4,7 +4,7 @@ const mqtt = require("mqtt");
 const broker = "mqtt://192.168.1.231";
 const topics = ["sarayu/d1/topic1"];
 
-// ---------------- PARAMETERS ----------------
+// ---------------- PARAMETERS -------------
 const signalFrequency = 10;
 const tachoFixedFreq = 10;
 
