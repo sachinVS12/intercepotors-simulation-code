@@ -5,7 +5,7 @@ const broker = "mqtt://192.168.1.231";
 const topics = ["sarayu/d1/topic1"];
 
 // ---------------- PARAMETERS -------------
-const signalFrequency = 10;
+const signalFrequency = 20;
 const tachoFixedFreq = 10;
 
 const amplitude = 1.0;
