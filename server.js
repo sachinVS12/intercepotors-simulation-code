@@ -6,7 +6,7 @@ const topics = ["sarayu/d1/topic1"];
 
 // ---------------- PARAMETERS -------------
 const signalFrequency = 20;
-const tachoFixedFreq = 10;
+const tachoFixedFreq = 20;
 
 const amplitude = 1.0;
 const offset = 32768;
