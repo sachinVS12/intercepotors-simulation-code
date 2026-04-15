@@ -7,7 +7,7 @@ const topics = ["sarayu/d1/topic1"];
 
 // ---------------- PARAMETERS ----------------
 let signalFrequency = 1; // START AT 1 Hz
-const maxFrequency = 300; // SWEEP UP TO 300 Hz
+const maxFrequency = 500; // SWEEP UP TO 300 Hz
 const tachoFixedFreq = 10;
 
 const amplitude = 1.0;
