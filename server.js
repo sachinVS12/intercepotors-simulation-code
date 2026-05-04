@@ -1,7 +1,7 @@
 const mqtt = require("mqtt");
 
 // ---------------- CONFIG ----------------
-const broker = "mqtt://192.168.1.231";
+const broker = "mqtt://192.168.1.238";
 const topics = ["sarayu/d1/topic2"];
 
 // ---------------- PARAMETERS -------------

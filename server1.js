@@ -2,8 +2,8 @@
 const mqtt = require("mqtt");
 
 // ---------------- CONFIG ----------------
-const broker = "mqtt://192.168.1.231";
-const topics = ["sarayu/d1/topic2"];
+const broker = "mqtt://192.168.1.238";
+const topics = ["sarayu/d1/topic1"];
 
 // ---------------- PARAMETERS ----------------
 let signalFrequency = 1; // START AT 1 Hz
